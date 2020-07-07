@@ -21,7 +21,7 @@
     "@types/jquery": "^3.3.31",
     "@vue/cli-plugin-typescript": "^4.0.0",
     "@vue/cli-service": "^4.0.0",
-    "electron": "^6.0.0",
+    "electron": "^9.1.0",
     "typescript": "~3.5.3",
     "vue-cli-plugin-electron-builder": "^1.4.5",
     "vue-template-compiler": "^2.6.10"
